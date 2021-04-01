@@ -203,6 +203,7 @@ main{
   border-radius: 45%;
   margin-top:auto;
   margin-bottom: auto;
+  margin-left: 0;
 }
 
 .delete img{
@@ -312,9 +313,6 @@ main{
     width: 100%;
   }
 
-  .flex button{
-    margin-left: 25%;
-  }
 }
 
 @media only screen and (min-width: 500px) and (max-width: 610px) {
